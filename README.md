@@ -4,7 +4,8 @@
 The Project Titled “6.3 MW Bundled Small Scale Wind Power Project by M/s Hanumantha Rao” is a Wind based Power Project successfully commissioned by Karnataka Power Transmission Corporation Limited (KPTCL) and operational since 16/02/2015. The Project is owned by M/s Hanumantha Rao (hereby to be called as Project Proponent, PP).
 _____________
 
-Total UCR Credits during 1st MR:
+Total UCR Credits during 1st MR Period 16/02/2015 to 31/12/2022
+_________
 Vintage: ___2015_____________ Metric Tons CO2e: 5,554
 Beginning (DD/MM/YY): 16/02/2015 End (DD/MM/YY): 31/12/2017
 ______________
