@@ -2,6 +2,61 @@
 6.3 MW Bundled Small Scale Wind Power Project (M/S M Hanumantha Rao) by Energy Advisory Services
 
 The Project Titled “6.3 MW Bundled Small Scale Wind Power Project by M/s Hanumantha Rao” is a Wind based Power Project successfully commissioned by Karnataka Power Transmission Corporation Limited (KPTCL) and operational since 16/02/2015. The Project is owned by M/s Hanumantha Rao (hereby to be called as Project Proponent, PP).
+
+There are social, environmental, economic and technological benefits which contribute to sustainable
+development.
+
+____________
+Social Benefits:
+• The project activity will lead to the development of supporting infrastructure such as road
+network etc., in the wind park location, the access to which is also provided to the local
+population.
+
+
+• The project activity will lead to alleviation of poverty by establishing direct and indirect
+benefits through employment generation and improved economic activities by strengthening
+of local grid of the state electricity utility.
+
+
+• Use of a renewable source of energy reduces the dependence on imported fossil fuels and
+associated price variation thereby leading to increased energy security.
+
+
+Environmental benefits:
+• The project activity employs renewable energy source for electricity generation instead of
+fossil fuel-based electricity generation which would have emitted gaseous, liquid and/or solid
+effluents/wastes.
+
+
+• Being a renewable resource, using wind energy to generate electricity contributes to resource
+conservation. Thus, the project causes no negative impact on the surrounding environment
+and contributes to environmental well-being.
+
+
+Economic benefits:
+• The project activity requires temporary and permanent, skilled and semi-skilled manpower at
+the wind park; this will create additional employment opportunities in the region.
+
+
+• The generated electricity will be fed into the NEWNE regional grid through local grid,
+thereby improving the grid frequency and availability of electricity to the local consumers
+(villagers & sub-urban habitants) which will provide new opportunities for industries and
+economic activities to be setup in the area thereby resulting in greater local employment,
+ultimately leading to overall development.
+
+
+Technical benefits:
+• Increased interest in wind energy projects will further push R&D efforts by technology
+providers to develop more efficient and better machinery in future.
+__________
+
+Location of project activity >>
+Country : India
+District : Gadag
+State : Karanataka
+Latitude : 15°19’17” N
+Longitude : 75°35’5.1” E
+
 _____________
 
 Total UCR Credits during 1st MR Period 16/02/2015 to 31/12/2022
